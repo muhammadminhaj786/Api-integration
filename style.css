@@ -1,0 +1,22 @@
+/* .parent{
+    height: 100%;
+    width: 50%;
+    margin: 10px auto;
+}
+.my-table{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.b1{
+    width: 100%;
+} */
+
+.Table{
+    border:  1px solid black;
+}
+.id-cell{
+    border: 1px solid black;
+}
+.my-border{
+    border: 1px solid black;
+}
